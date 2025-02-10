@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Dominique, even though you can call me Dom... It's simpler :sweat_smile: </h1>
+<h1 align="center"> Hi 👋, I'm Dominique </h1>
 
 I am Dominique Pierre Gondelbert Rios, I am currently studying a degree in systems for purposes with Telematics, at the university institution of Barranquilla [](https://www.unibarranquilla.edu.co)[].   I am self-taught, I offer efficiency and results.
 
