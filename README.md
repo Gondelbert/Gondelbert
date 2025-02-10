@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 </h1>
 
-I am Dominique Pierre Gondelbert Rios, I am currently studying a degree in systems for purposes with Telematics, at the university institution of Barranquilla [](https://www.unibarranquilla.edu.co)[].   I am self-taught, I offer efficiency and results.
+I am Dominique Pierre Gondelbert Rios, I am currently studying a degree in systems for purposes with Telematics, at the university institution of Barranquilla https://www.unibarranquilla.edu.co.   I am self-taught, I offer efficiency and results.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p> 
 
