@@ -1,14 +1,14 @@
 <h1 align="center"> Hi 👋, I'm Dominique, even though you can call me Dom... It's simpler :sweat_smile: </h1>
 
-I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
+I am Dominique Pierre Gondelbert Rios, I am currently studying a degree in systems for purposes with Telematics, at the university institution of Barranquilla [](https://www.unibarranquilla.edu.co)[].   I am self-taught, I offer efficiency and results.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p> 
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
-- ⚡ Fun fact: I love taking photos, playing video games.
+- 🌱 I am currently learning Machine Learning **
+- 👯 I am looking to collaborate on projects that allow me to acquire more knowledge **
+- 🤔 I am looking to polish my skills to the maximum**
+- 🥅 Goals for 2026: dominate Machine learning |
+- ⚡Fun fact: I love watching movies and playing video games from time to time.
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
