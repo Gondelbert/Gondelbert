@@ -68,7 +68,7 @@ He presentado mis proyectos en **Medellín** y **México**, recibiendo reconocim
 - **Email:** dominique.gondelbert@example.com  
 - **LinkedIn:** [linkedin.com/in/dominiquegondelbert](#)  
 - **GitHub:** [github.com/dominiquegondelbert](#)  
-- **Portafolio Web:** *(En construcción)*
+- **Portafolio Web: https://gondelbert.github.io/portafolio/#sobre-mi
 
 ---
 
