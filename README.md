@@ -1,7 +1,7 @@
 # Dominique Gondelbert  
 ### Diseñador Junior en entornos Rasa e Ingeniero en desarrollo e investigación de Inteligencia Artificial Generativa
 
-<!-- ![Avatar](URL_DE_TU_AVATAR) -->
+<!-- ![Avatar](https://octodex.github.com/images/privateinvestocat.jpg) -->
 
 ---
 
