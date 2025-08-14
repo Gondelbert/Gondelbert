@@ -24,7 +24,7 @@ He presentado mis proyectos en **Medellín** y **México**, recibiendo reconocim
 |----------------------|-------------|
 | **Lenguajes**        | Python |
 | **Desarrollo web en** | HTML/CSS |
-| **IA y Machine Learning** | PyTorch, GPT2 embeddings , datasets|
+| **IA y Machine Learning** | PyTorch, TensorFlow, GPT2 embeddings , datasets|
 | **Chatbots**         | Rasa |
 | **Bases de Datos**   | MySQL |
 | **Servidores y Redes** | Linux (Kali), VPN, VLAN |
