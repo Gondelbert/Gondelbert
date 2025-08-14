@@ -1,65 +1,75 @@
-# Dominique Gondelbert  
-### Diseñador Junior en entornos Rasa e Ingeniero en desarrollo e investigación de Inteligencia Artificial Generativa
+# 💻 Dominique Gondelbert — Ingeniero en Sistemas Informáticos y Telemática
 
-<!-- ![Avatar](https://octodex.github.com/images/privateinvestocat.jpg) -->
-
----
-
-## 👋 Presentación
-Soy **Ingeniero Telemático** especializado en el **desarrollo e investigación de inteligencia artificial conversacional** y en la **creación de chatbots inteligentes basados en Rasa**.  
-Me caracterizo por mi capacidad de aprendizaje autónomo y mi proactividad para enfrentar nuevos retos:  
-> *"Aunque desconozca un tema al inicio, lo estudio y lo domino a medida que avanzo en su desarrollo."*
+**Innovación, tecnología y desarrollo inteligente**  
+Con experiencia en sistemas informáticos, telemática, inteligencia artificial y redes, desarrollo soluciones tecnológicas orientadas a la optimización y la automatización de procesos.  
+Mi trabajo combina **programación**, **arquitectura de servidores** y **creación de modelos de inteligencia artificial** con un enfoque en la innovación.
 
 ---
 
-## 🛠 Competencias técnicas
+## 📌 Sobre mí
 
-- **Lenguajes de programación:** Python  
-- **Frameworks y librerías:** Rasa, PyTorch  
-- **Infraestructura y datos:** Administración de servidores, gestión y preparación de datasets  
-- **Otras competencias:** Liderazgo, trabajo en equipo, disciplina y gestión de proyectos
+Soy un profesional apasionado por la tecnología, con experiencia en:
+- Desarrollo de **chatbots inteligentes** usando *Rasa*.
+- Creación de **modelos de IA generativa** y proyectos de investigación en **fusión de IA y mecánica cuántica computacional**.
+- Administración y configuración de **servidores y redes**.
+- Desarrollo de soluciones **full stack** y **aplicaciones interactivas**.
 
----
-
-## 🚀 Proyectos destacados
-
-### **Sora**
-Modelo de inteligencia artificial generativa actualmente en fase de prototipo, diseñado para la **automatización y administración de procesos en entornos de alta carga laboral o tareas repetitivas**.  
-El desarrollo de Sora se realiza de forma individual, garantizando un enfoque meticuloso y adaptable.  
-**Tecnologías utilizadas:** PyTorch en entorno Python, junto con arquitecturas y esquemas GPT de uso libre.
+He presentado mis proyectos en **Medellín** y **México**, recibiendo reconocimiento por propuestas innovadoras que integran software avanzado con nuevas tecnologías.
 
 ---
 
-### **Rm_Sora**
-Versión optimizada y compacta del modelo principal **Sora**, desarrollada con el framework Rasa.  
-Su objetivo es la **gestión de procesos académicos y administrativos en instituciones de educación superior**, mejorando la eficiencia y reduciendo la carga operativa.  
-**Tecnologías utilizadas:** Rasa, Python
+## 🛠 Tecnologías y Herramientas
+
+| Área                  | Tecnologías |
+|----------------------|-------------|
+| **Lenguajes**        | Python, JavaScript, PHP, Java, SQL, HTML/CSS |
+| **IA y Machine Learning** | PyTorch, TensorFlow, Transformers, NLTK |
+| **Chatbots**         | Rasa, Flask, Google Dialogflow |
+| **Bases de Datos**   | MySQL, PostgreSQL |
+| **Servidores y Redes** | Linux (Kali, Ubuntu), Windows Server, VPN, VLAN, Geyser/Floodgate para Minecraft |
+| **Control de Versiones** | Git, GitHub |
+| **Otras Herramientas** | Docker, Blender (modelado 3D), VS Code |
 
 ---
 
-## 🏆 Experiencia y reconocimientos
+## 🚀 Proyectos Destacados
 
-- **Prácticas profesionales:** 6 meses de experiencia en áreas relacionadas con sistemas, redes e inteligencia artificial.  
-- **Presentaciones de proyectos:**
-  - Medellín, Colombia — *24 al 26 de octubre de 2024* (Certificado de asistencia como expositor).  
-  - México — *25 de octubre de 2025* (presentación programada).  
-- **Distinciones:**
-  - 2 diplomas de reconocimiento por presentaciones destacadas.  
-  - 1 medalla de honor por innovación en proyectos de IA.
+### 1️⃣ [FaceLog — Sistema de Asistencia con Reconocimiento Facial](#)
+- **Descripción:** Plataforma para automatizar la toma de asistencia en instituciones educativas mediante IA y visión por computadora.
+- **Tecnologías:** Python, OpenCV, Flask, MySQL.
+- **Rol:** Desarrollador principal.
+- **Estado:** En desarrollo.
+
+### 2️⃣ [MAID — Tableros Inteligentes](#)
+- **Descripción:** Proyecto empresarial que desarrolla tableros interactivos optimizados con IA para entornos educativos y corporativos.
+- **Tecnologías:** React, Node.js, Python.
+- **Rol:** Fundador y desarrollador principal.
+
+### 3️⃣ [IA Cuántica — Proyecto de Investigación](#)
+- **Descripción:** Fusión de inteligencia artificial y mecánica cuántica computacional para nuevas arquitecturas de procesamiento.
+- **Rol:** Investigador principal.
+- **Estado:** Fase experimental.
+
+---
+
+## 🎓 Formación Académica
+
+- **Ingeniería en Sistemas Informáticos y Telemática**  
+- Especialización en **Administración de Servidores y Redes**
+- Certificaciones en:
+  - Inteligencia Artificial y Machine Learning
+  - Ciberseguridad
+  - Desarrollo Web Full Stack
 
 ---
 
-## 🌍 Idiomas
+## 📫 Contacto
 
-- **Francés:** Nativo  
-- **Español:** Nativo  
-- **Inglés:** Intermedio (en proceso de perfeccionamiento)  
-
----
-
-<!-- ## 📫 Contacto
-- Email: [TU_EMAIL]
-- LinkedIn: [TU_LINKEDIN]
--->
+- **Email:** dominique.gondelbert@example.com  
+- **LinkedIn:** [linkedin.com/in/dominiquegondelbert](#)  
+- **GitHub:** [github.com/dominiquegondelbert](#)  
+- **Portafolio Web:** *(En construcción)*
 
 ---
+
+> 💡 *"La tecnología no solo resuelve problemas, también crea nuevas oportunidades para el futuro."*
