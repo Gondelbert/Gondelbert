@@ -24,12 +24,12 @@ He presentado mis proyectos en **Medellín** y **México**, recibiendo reconocim
 |----------------------|-------------|
 | **Lenguajes**        | Python |
 | **Desarrollo web en** | HTML/CSS |
-| **IA y Machine Learning** | PyTorch, TensorFlow, GPT2 embeddings , datasets|
+| **IA y Machine Learning** | PyTorch, TensorFlow, GPT2 embeddings , datasets,Google Cloud|
 | **Chatbots**         | Rasa |
 | **Bases de Datos**   | MySQL |
-| **Servidores y Redes** | Linux (Kali), VPN, VLAN |
+| **Servidores y Redes** | Linux (ubuntu server), VPN, VLAN, Google Cloud|
 | **Control de Versiones** | Git, GitHub |
-| **Otras Herramientas** | VS Code, Google Cloud, hugging face, n8n, google colab|
+| **Otras Herramientas** | VS Code, hugging face, n8n, google colab, linux|
 
 ---
 
