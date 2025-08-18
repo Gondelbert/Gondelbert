@@ -1,7 +1,8 @@
 # 💻 Dominique Gondelbert --AI Developer (Neural Networks & Rasa NLP) --
 
 **Innovación, tecnología y desarrollo inteligente**  
-Con experiencia en sistemas informáticos, telemática, inteligencia artificial y redes, desarrollo soluciones tecnológicas orientadas a la optimización y la automatización de procesos.  
+Con experiencia en sistemas informáticos, python, huggingface, rasa, chatbots, Transformers, Pytorch e inteligencia artificial.
+Desarrollo soluciones tecnológicas orientadas a la optimización y la automatización de procesos.  
 Mi trabajo combina **Diseño**, **investigacion**, y **Desarrollo de modelos de inteligencia artificial** con un enfoque en la innovación.
 
 ---
