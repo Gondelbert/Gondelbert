@@ -56,7 +56,7 @@ Su objetivo es la **gestión de procesos académicos y administrativos en instit
 ---
 
 ## 🎓 Formación Académica
-
+- **Graduado de Tecnico Profesional en Mantenimiento de Sistemas Informaticos**
 - **Cursando Tecnologo en Gestion de Sistemas Informaticos**  
 - **Participacion en semilleros de investigacion**
 - **Presentacion de proyectos a nivel internacional**
