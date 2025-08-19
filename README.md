@@ -46,7 +46,7 @@ He presentado mis proyectos en **Medellín** recibiendo reconocimiento por propu
 ## 🚀 Proyectos destacados
 Se esta desarrando un modelo de inteligencia artificial actualmente en fase de prototipo, diseñado para la **automatización y administración de procesos en entornos de alta carga laboral o tareas repetitivas**. A este modelo se le conoce como **Ofus**
 El desarrollo de este modelo se realiza de forma individual, garantizando un enfoque meticuloso y adaptable.  
-**Tecnologías utilizadas:** PyTorch en entorno Python, junto con arquitecturas y esquemas GPT de uso libre.
+**Tecnologías utilizadas:** PyTorch en entorno Python, junto con arquitecturas y esquemas GPT2 de uso libre.
 
 ---
 Asi mismo existe la Versión optimizada, llamada **R_Ofus**, este conciste en la version compacta del modelo principal, desarrollada con el framework Rasa.  
