@@ -44,13 +44,13 @@ He presentado mis proyectos en **Medellín** recibiendo reconocimiento por propu
 ---
 
 ## 🚀 Proyectos destacados
-**Ofus**
+-**Ofus**
 Modelo de inteligencia artificial generativa actualmente en fase de prototipo, diseñado para la **automatización y administración de procesos en entornos de alta carga laboral o tareas repetitivas**.
 El desarrollo de este modelo se realiza de forma individual, garantizando un enfoque meticuloso y adaptable.  
 **Tecnologías utilizadas:** PyTorch en entorno Python, junto con arquitecturas y esquemas GPT de uso libre.
 
 ---
-**R_Ofus**
+-**R_Ofus**
 Versión optimizada y compacta del modelo principal, desarrollada con el framework Rasa.  
 Su objetivo es la **gestión de procesos académicos y administrativos en instituciones de educación superior**, mejorando la eficiencia y reduciendo la carga operativa.  
 **Tecnologías utilizadas:** Rasa, Python
