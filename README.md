@@ -1,79 +1,198 @@
-# 💻 Dominique Gondelbert --AI Developer (Neural Networks & Rasa NLP) --
+# 💻 Dominique Gondelbert
 
-**Innovación, tecnología y desarrollo inteligente**  
-Con experiencia en sistemas informáticos, python, huggingface, rasa, chatbots, Transformers, Pytorch e inteligencia artificial.
-Desarrollo soluciones tecnológicas orientadas a la optimización y la automatización de procesos.  
-Mi trabajo combina **Diseño**, **investigacion**, y **Desarrollo de modelos de inteligencia artificial** con un enfoque en la innovación.
+### AI & Automation Developer | Python Developer | IT Support Specialist
 
----
+## 🚀 About Me
 
-## 📌 Sobre mí
+Technology professional specialized in software development, automation, artificial intelligence, and IT support. Passionate about building intelligent solutions that optimize processes, improve operational efficiency, and solve real-world problems through software and AI.
 
-Soy un profesional apasionado por la tecnología, con experiencia en:
-- Desarrollo de **chatbots inteligentes** usando frameworks como *Rasa*.
-- Creación de **modelos propios de IA** y proyectos de investigación en relacion al uso que se les puede dar dentro de los entornos educativos y empresariales.
-- Desarrollo de soluciones y **aplicaciones interactivas basadas en chatbots**.
+My experience combines software development, machine learning, chatbot development, systems administration, and technological innovation. I have participated in academic research projects, international technology events, and the development of AI-driven solutions for education, healthcare, and process automation.
 
-He presentado mis proyectos en **Medellín** recibiendo reconocimiento por propuestas innovadoras que integran software avanzado con nuevas tecnologías.
+Currently focused on the design and implementation of intelligent systems using Python, Generative AI, NLP, automation frameworks, and modern software architectures.
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Technical Skills
 
-| Área                  | Tecnologías |
-|----------------------|-------------|
-| **Lenguajes**        | Python |
-| **Desarrollo web en** | HTML/CSS |
-| **Inteligencia Artificial** | PyTorch, TensorFlow, GPT2 embeddings , hugging face, Transformers|
-| **Framworks de Chatbots** | Rasa |
-| **Bases de Datos** | MySQL|
-| **Control de Versiones** | Git, GitHub|
-| **Otras Herramientas** | VS Code, google colab, Google Cloud|
+### Programming Languages
 
----
+* Python
 
-## 🏆 Experiencia y reconocimientos
+### Artificial Intelligence & Machine Learning
 
-- **Prácticas profesionales:** 6 meses de experiencia en áreas relacionadas con sistemas, soprte, actualizacion, mantenimiento preventivo y correctivo de equipos, manejo de inventario.  
-- **Presentaciones de proyectos:**
-  - Medellín, Colombia — *24 al 26 de octubre de 2024* (Certificado de asistencia como expositor).  
-- **Distinciones:**
-  - 1 diploma de reconocimiento por presentaciones dadas.  
-  - 1 medalla de reconocimiento por participacion activa en el desarrolo del proyecto.
-    
----
+* PyTorch
+* TensorFlow
+* Hugging Face Transformers
+* GPT-based Architectures
+* Natural Language Processing (NLP)
+* Machine Learning
+* Generative AI
 
-## 🚀 Proyectos destacados
-Se esta desarrando un modelo de inteligencia artificial actualmente en fase de prototipo, diseñado para la **automatización y administración de procesos en entornos de alta carga laboral o tareas repetitivas**. A este modelo se le conoce como **Ofus**
-El desarrollo de este modelo se realiza de forma individual, garantizando un enfoque meticuloso y adaptable.  
-**Tecnologías utilizadas:** PyTorch en entorno Python, junto con arquitecturas y esquemas GPT2 de uso libre.
+### Chatbot Development
 
----
-Asi mismo existe la Versión optimizada, llamada **R_Ofus**, este conciste en la version compacta del modelo principal, desarrollada con el framework Rasa.  
-Su objetivo es la **gestión de procesos académicos y administrativos en instituciones de educación superior**, mejorando la eficiencia y reduciendo la carga operativa.
-**Tecnologías utilizadas:** Rasa, Python
+* Rasa Framework
+* Conversational AI
+* Intent Classification
+* Dialogue Management
 
----
+### Web Development
 
-## 🎓 Formación Académica
-- **Graduado de Tecnico Profesional en Mantenimiento de Sistemas Informaticos**
-- **Cursando Tecnologo en Gestion de Sistemas Informaticos**  
-- **Participacion en semilleros de investigacion**
-- **Presentacion de proyectos a nivel internacional**
+* HTML
+* CSS
+
+### Databases
+
+* MySQL
+
+### Development Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* Google Colab
+* Google Cloud Platform
 
 ---
 
-## 🌍 Idiomas
+## 🏆 Experience & Recognition
 
-- **Francés:** Nativo  
-- **Español:** Nativo  
-- **Inglés:** Intermedio 
-  
+### IT Support Technician
+
+* 6 months of professional experience providing technical support in corporate environments.
+* Hardware and software troubleshooting.
+* Preventive and corrective maintenance.
+* Operating system installation and configuration.
+* Inventory management and technology asset support.
+
+### International Academic Presentations
+
+* Speaker at technology and innovation events in Medellín, Colombia (2024).
+* Speaker at international academic events in Mexico (2025).
+* Recognition for research and development projects focused on Artificial Intelligence and educational innovation.
+
 ---
 
-## 📫 Contacto
-- **Portafolio Web: https://gondelbert.github.io/portafolio/#sobre-mi
+## 🚀 Featured Projects
+
+### OFUS – Autonomous Artificial Intelligence Architecture
+
+Personal project focused on the development of an autonomous AI architecture designed to automate and manage processes in high-demand environments.
+
+Key Features:
+
+* Modular AI architecture
+* Dataset processing pipelines
+* Model training workflows
+* NLP capabilities
+* Process automation
+
+Technologies:
+
+* Python
+* PyTorch
+* Transformers
+* GPT-based architectures
 
 ---
 
-> 💡 *"La tecnología no solo resuelve problemas, también crea nuevas oportunidades para el futuro."*
+### R_OFUS – Educational Process Automation Assistant
+
+Compact version of OFUS built using the Rasa framework.
+
+Designed to assist academic and administrative processes within higher education institutions, reducing operational workload and improving response times.
+
+Technologies:
+
+* Rasa
+* Python
+* NLP
+
+---
+
+### IUB-BOT – Academic & Administrative Intelligent Assistant
+
+Artificial intelligence assistant developed to support university students in academic and administrative procedures.
+
+Main Features:
+
+* Student guidance
+* Academic information retrieval
+* Administrative process assistance
+* Conversational support
+
+Technologies:
+
+* Python
+* NLP
+* Rasa
+* AI Integration
+
+---
+
+### Diabetes Risk Prediction & Clinical Assistant
+
+Web-based solution combining predictive and generative AI models to support diabetes risk assessment and patient guidance.
+
+Main Features:
+
+* Diabetes prediction using Decision Trees
+* Fine-tuned generative AI assistant
+* Clinical data analysis
+* Conversational medical guidance
+
+Technologies:
+
+* Python
+* Machine Learning
+* Decision Trees
+* Generative AI
+
+---
+
+### IoT Smart Monitoring System for Fish Farms
+
+IoT-based monitoring platform designed to measure water quality variables in real time, helping optimize fish farming operations.
+
+Technologies:
+
+* IoT
+* Sensors
+* Data Processing
+* Real-Time Monitoring
+
+---
+
+## 🎓 Education
+
+### Technologist in Information Systems Management (In Progress)
+
+Universidad de Barranquilla
+
+### Professional Technician in Information Systems Maintenance
+
+Universidad de Barranquilla
+
+### Research Activities
+
+* Participation in research groups and innovation projects.
+* Development of AI-based educational solutions.
+* International project presentations.
+
+---
+
+## 🌎 Languages
+
+* French — Native
+* Spanish — Native
+* English — Intermediate
+
+---
+
+## 🔗 Portfolio
+
+Portfolio Website:
+https://gondelbert.github.io/portafolio/
+
+---
+
+*"Technology is not only about solving problems; it is about creating opportunities for the future."*
